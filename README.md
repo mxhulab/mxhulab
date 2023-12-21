@@ -1,6 +1,6 @@
 ![banner](./banner.png)
 
-### Welcome to the Mingxu Hu Lab, situated across the Shenzhen Medical Academy of Research and Translation, and the Beijing Frontier Center for Biological Structure (Tsinghua University).
+Welcome to the Mingxu Hu Lab, situated across the Shenzhen Medical Academy of Research and Translation, and the Beijing Frontier Center for Biological Structure (Tsinghua University).
 
 <!--
 **mxhulab/mxhulab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
