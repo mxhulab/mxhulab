@@ -2,6 +2,8 @@
 
 Welcome to the Mingxu Hu Lab, situated across the Shenzhen Medical Academy of Research and Translation (SMART), and the Beijing Frontier Center for Biological Structure (Tsinghua University). Our lab specializes in the field of cryogenic electron microscopy (cryoEM) techniques, with a particular focus on image processing methods. We are deeply engaged in advancing the in silico directed evolution of biological macromolecules, leveraging the combined strengths of cryoEM and deep learning technologies. We have established a deep and enduring collaboration with teams from Tsinghua University, who bring expertise in mathematics and deep learning.
 
+[We currently have positions available for Co-Principal Investigators, Postdoctoral Researchers, Research Assistants, and Visiting Students.](http://smart.org.cn/recruit/research-team/content/post_1119918.html)
+
 <!--
 **mxhulab/mxhulab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
