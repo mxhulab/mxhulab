@@ -4,3 +4,4 @@
 
 *A particle-filter framework for robust cryo-EM 3D reconstruction.* **Nature Methods (2018)** [[html](https://www.nature.com/articles/s41592-018-0223-8)]
 
+*Enhancing Density Maps by Removing the Majority of Particles in Single Particle Cryogenic Electron Microscopy Final Stacks.* **Journal of Visualized Experiments (2024)** [[hmtl](https://www.jove.com/cn/t/66617/enhancing-density-maps-removing-majority-particles-single-particle)]
